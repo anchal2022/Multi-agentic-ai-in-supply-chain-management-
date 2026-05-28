@@ -1,0 +1,3 @@
+Model,Metric 1,Value 1,Metric 2,Value 2
+Demand Forecasting,MAE,415.76990000000006,RMSE,580.320286747758
+Supplier Risk Classification,Accuracy,0.955,F1-score,0.9543955826964567
